@@ -19,7 +19,7 @@ public class XSSFilterController {
     }
 
     @PostMapping("/test")
-    public String test(@RequestBody Employee employee){
+    public String test(@ModelAttribute Employee employee){
         return "Post call sucessfuly";
 
     }

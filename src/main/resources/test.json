@@ -1,0 +1,26 @@
+{
+  "id": "1",
+  "name": "Le Vu Hao",
+  "scipt": "admin",
+  "age": 22,
+  "address": [
+    {
+      "city": "Ha Noi",
+      "country": "Viet Nam",
+      "pinCode": "100000"
+    },
+    {
+      "city": "Ho Chi Minh",
+      "country": "Viet Nam",
+      "pinCode": "700000"
+    }
+  ],
+  "mobileNumber": [
+    "0966961429",
+    "0339369428"
+  ],
+  "vehicleList": {
+    "Bike" : 1,
+    "Car" : 0
+  }
+}
